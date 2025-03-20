@@ -1,0 +1,2 @@
+let square_cube = (num) => ({square : num ** 2 ,cube : num ** 3})
+console.log(square_cube(5))
